@@ -6,7 +6,7 @@ body{
 	 margin-top:110px;
 	 padding-left:100px;
 	 min-width:1200px;
-	 height:500px;
+	 height:575px;
 }
 
 .ryu-ready,.ryu-still,.ryu-throwing,.ryu-cool{
@@ -50,4 +50,17 @@ body{
 
 *{
 	outline:red 0px solid;
+}
+
+.pressx{
+	padding-top:0.5%;
+	padding-bottom:0.5%;
+	background-color:grey;
+}
+.pressx li{
+    margin-left:2%;
+}
+
+.ryu{
+	background-color:lightblue;
 }
